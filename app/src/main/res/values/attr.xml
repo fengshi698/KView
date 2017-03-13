@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShopButton">
+        <attr name="buttonBgColor" format="color"/>
+        <attr name="buttonTextColor" format="color" />
+        <attr name="buttonTextSize" format="dimension" />
+        <attr name="buttonText" format="string" />
+        <attr name="radius" format="dimension" />
+        <attr name="gapBetweenCircle" format="dimension" />
+        <attr name="numTextSize" format="dimension" />
+        <attr name="numTextColor" format="color" />
+        <attr name="buttonMode" format="boolean" />
+    </declare-styleable>
+</resources>
