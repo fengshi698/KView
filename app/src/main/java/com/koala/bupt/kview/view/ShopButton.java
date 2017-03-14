@@ -70,7 +70,6 @@ public class ShopButton extends View {
         buttonText = array.getString(R.styleable.ShopButton_buttonText);
         buttonTextColor = array.getColor(R.styleable.ShopButton_buttonTextColor,buttonTextColor);
 
-
         addPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
         delPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
 
